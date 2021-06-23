@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640433328811",
+    "firebase_url": "https://sampritionline-5df54.firebaseio.com",
+    "project_id": "sampritionline-5df54",
+    "storage_bucket": "sampritionline-5df54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640433328811:android:3635cc0b4c3559e465ddee",
+        "android_client_info": {
+          "package_name": "com.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640433328811-fhemcvnjtfkij9ec06or3kkjk07f10rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsP5by0N7gO4shZpBgw21mHaT6UAfOpCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640433328811-fhemcvnjtfkij9ec06or3kkjk07f10rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
